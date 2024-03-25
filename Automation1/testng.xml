@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/saieswar/Desktop/untitled folder/Automation1/src/test/java/com/automation1_08feb/dp.java">
+        <classes><class name="com.automation1_08feb.dp">
+            <methods>
+                <include name="Dpcall"/>
+                <include name="answercall"/>
+                <include name="tear"/>
+            </methods>
+        </class>
+        </classes>
+    </test>
+</suite>
